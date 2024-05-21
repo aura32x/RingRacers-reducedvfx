@@ -1,3 +1,5 @@
+seeing if i can adjust some visual fx for photosensitivity purposes
+---
 # Dr. Robotnik's Ring Racers
 
 <p align="center">
